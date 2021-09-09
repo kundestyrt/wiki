@@ -1,2 +1,1 @@
-# wiki
-Internal wiki for development
+# [Click to go to wiki](https://github.com/kundestyrt/wiki/wiki)
